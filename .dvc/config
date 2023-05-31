@@ -1,0 +1,12 @@
+[cache]
+    type = symlink
+    dir = cache
+[core]
+    remote = http
+    analytics = false
+    check_update = false
+['remote "s3"']
+    url = s3://oceanbench-data-registry/dvc
+    endpointurl = https://s3.eu-central-1.wasabisys.com
+['remote "http"']
+    url = https://s3.eu-central-1.wasabisys.com/oceanbench-data-registry/dvc

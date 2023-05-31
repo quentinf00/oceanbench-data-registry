@@ -1,0 +1,11 @@
+md5: 0ed9b24ce4d80aa1580143fe011eac94
+frozen: true
+deps:
+- path: NATL60/GULFSTREAM/data/dataset_swot.nc
+  repo:
+    url: ../sla-data-registry
+    rev_lock: 8860979aa65e8f4888afad8d9fc64baa5d223b8e
+outs:
+- md5: 07939fc38d2742bab914b477f490ffe2
+  size: 708322336
+  path: gf_obs_swot.nc
