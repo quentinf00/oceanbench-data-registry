@@ -1,10 +1,3 @@
-md5: bfdd142f276d877f4843895947f1060f
-frozen: true
-deps:
-- path: NATL60/GULFSTREAM/data/dataset_nadir_0d_swot.nc
-  repo:
-    url: ../sla-data-registry
-    rev_lock: 8860979aa65e8f4888afad8d9fc64baa5d223b8e
 outs:
 - md5: dfd6b0a1343e785607e8cbc6699ed795
   size: 708322336

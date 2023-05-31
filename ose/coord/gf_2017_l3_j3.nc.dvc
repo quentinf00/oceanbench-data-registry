@@ -1,10 +1,3 @@
-md5: f898eead6799930165f1db725ceed8bc
-frozen: true
-deps:
-- path: data_challenges/dc21a_ose/test/train/dt_gulfstream_j3_phy_l3_20161201-20180131_285-315_23-53.nc
-  repo:
-    url: ../sla-data-registry
-    rev_lock: 8860979aa65e8f4888afad8d9fc64baa5d223b8e
 outs:
 - md5: 831c0384c82b956e9e95492afdc5704b
   size: 23175157
