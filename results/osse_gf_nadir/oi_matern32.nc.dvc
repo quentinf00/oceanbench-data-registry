@@ -1,0 +1,4 @@
+outs:
+- md5: 934c5e0a73e45b9fcb33f22c8ac06adc
+  size: 11351957
+  path: oi_matern32.nc

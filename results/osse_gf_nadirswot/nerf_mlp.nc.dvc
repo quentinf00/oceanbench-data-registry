@@ -1,0 +1,4 @@
+outs:
+- md5: f5d7f4c06ebd2d89c7810f2481e48ad4
+  size: 60499602
+  path: nerf_mlp.nc

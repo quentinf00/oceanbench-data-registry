@@ -1,0 +1,4 @@
+outs:
+- md5: 5ab126bc1cada572841e3e16b9617d29
+  size: 15134802
+  path: nerf_siren.nc

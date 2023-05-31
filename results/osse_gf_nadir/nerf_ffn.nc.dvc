@@ -1,0 +1,4 @@
+outs:
+- md5: 1aeb6a9063df5e38fc06531aa3115518
+  size: 15134802
+  path: nerf_ffn.nc
