@@ -1,0 +1,11 @@
+md5: 4f5216c1c6c31077a9a1dcd57356e573
+frozen: true
+deps:
+- path: data_challenges/dc21a_ose/test/train/dt_gulfstream_alg_phy_l3_20161201-20180131_285-315_23-53.nc
+  repo:
+    url: ../sla-data-registry
+    rev_lock: 8860979aa65e8f4888afad8d9fc64baa5d223b8e
+outs:
+- md5: 8bb9545ebfc6f57bad5250a359333cb4
+  size: 22496760
+  path: gf_2017_l3_alg.nc

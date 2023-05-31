@@ -1,0 +1,11 @@
+md5: 4a084a0ffdb8c4769ca73a6f7659e93f
+frozen: true
+deps:
+- path: NATL60/GULFSTREAM/data/dataset_nadir_0d.nc
+  repo:
+    url: ../sla-data-registry
+    rev_lock: 8860979aa65e8f4888afad8d9fc64baa5d223b8e
+outs:
+- md5: 45b1396eb3590e3961d5c5b1e4d30175
+  size: 708322336
+  path: gf_obs_nadir.nc
