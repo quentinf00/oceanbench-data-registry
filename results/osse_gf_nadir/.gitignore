@@ -1,1 +1,11 @@
 /duacs.nc
+/4dvarnet.nc
+/nerf_siren.nc
+/oi_matern52.nc
+/nerf_mlp.nc
+/nerf_ffn.nc
+/bfn.nc
+/oi_rbf.nc
+/oi_matern32.nc
+/miost.nc
+/dymost.nc
