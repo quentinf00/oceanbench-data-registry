@@ -3,3 +3,7 @@
 /gf_obs_nadirswot.nc
 /gf_mod_ssh_daily.nc
 /gf_mod_sst.nc
+/natl_mod_sst.nc
+/natl_mod_ssh_daily.nc
+/natl_obs_nadirswot.nc
+/natl_obs_nadir.nc

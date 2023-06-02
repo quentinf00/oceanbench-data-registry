@@ -1,0 +1,4 @@
+outs:
+- md5: cce40012b488ca40342f333ad2bf6eeb
+  size: 15336916272
+  path: natl_obs_nadir.nc

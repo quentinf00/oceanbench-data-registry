@@ -1,0 +1,4 @@
+outs:
+- md5: cc8e3ec063be0838fd95cb9c80b997cb
+  size: 3924833232
+  path: natl_mod_ssh_daily.nc
