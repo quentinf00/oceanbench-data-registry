@@ -3,3 +3,7 @@
 /4dvarnet
 /miost.nc
 /dymost.nc
+/4dvarnet.nc
+/OSE_ssh_mapping_MUSTI.nc
+/ConvLSTM_SSH.nc
+/ConvLSTM_SSH-SST.nc
